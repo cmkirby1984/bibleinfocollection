@@ -102,6 +102,59 @@ John presents Jesus as the eternal Word, fully divine Son of God who became fles
 - Reflect on the Prologue (John 1:1-18) regularly to grasp the wonder of the Incarnation—God becoming flesh
 - Practice believing without seeing, trusting Jesus' promise that those who believe without seeing are blessed (John 20:29)
 
+## Study Questions
+
+### The Word Becomes Flesh (John 1)
+1. What does John 1:1-18 teach about Jesus' identity? List everything you learn about Him from these verses.
+2. Why is it significant that Jesus is called "the Word" (1:1, 14)?
+3. John the Baptist says he's not worthy to untie Jesus' sandals (1:27). What does this reveal about Jesus' greatness?
+
+### Signs & Encounters (John 2-4)
+4. Why did Jesus turn water into wine as His first sign (2:1-11)? What does it reveal about Him?
+5. What does Jesus mean when He tells Nicodemus "you must be born again" (3:3-8)? How does one experience this?
+6. How does Jesus' conversation with the Samaritan woman (chapter 4) break cultural barriers? What can we learn about evangelism?
+
+### Jesus' Claims & Conflicts (John 5-10)
+7. List the seven "I AM" statements in John. Choose one and explain what it means for your life today.
+   - 6:35 - Bread of Life
+   - 8:12 - Light of the World
+   - 10:7, 9 - Door/Gate
+   - 10:11, 14 - Good Shepherd
+   - 11:25 - Resurrection and Life
+   - 14:6 - Way, Truth, Life
+   - 15:1, 5 - True Vine
+8. Why do the Jews want to stone Jesus in 8:58-59? What is He claiming?
+9. What does the Good Shepherd discourse (chapter 10) teach about Jesus' relationship with His followers?
+
+### Signs of Life (John 11-12)
+10. Why did Jesus wait two days before going to Lazarus (11:6)? What was He teaching?
+11. Martha confesses Jesus as "the Messiah, the Son of God" (11:27). What evidence has John provided to support this?
+12. What does Jesus mean by "unless a kernel of wheat falls to the ground and dies" (12:24)?
+
+### The Upper Room (John 13-17)
+13. Why does Jesus wash the disciples' feet (13:1-17)? How should this shape Christian leadership?
+14. Jesus says "I am the way and the truth and the life" (14:6). What does each term mean? Why can't there be other ways?
+15. What's the key to bearing fruit according to 15:1-17? What does "remain/abide in me" mean practically?
+16. Read Jesus' prayer in chapter 17. What does He pray for Himself (vv. 1-5)? For His disciples (vv. 6-19)? For all believers (vv. 20-26)?
+
+### The Cross & Resurrection (John 18-21)
+17. How does John portray Jesus during His trial and crucifixion? What's different from the other Gospels?
+18. What's significant about Jesus' final words: "It is finished" (19:30)?
+19. Why is Thomas' confession—"My Lord and my God!" (20:28)—the climax of John's Gospel?
+20. What's the purpose of John's Gospel according to 20:30-31? Has it accomplished that purpose in you?
+
+### Reflection & Application
+21. Which sign/miracle in John most strengthens your faith? Why?
+22. If someone asked "Who is Jesus?" how would you answer based on John's Gospel?
+23. Jesus prayed that believers would be "one" (17:20-23). How can you pursue unity with other Christians?
+24. John was written "that you may believe" (20:31). Do you believe? If yes, what evidence is there in your life?
+
+**For Personal Study:** Read one chapter per day, journaling insights and questions. Memorize one "I AM" statement per week.
+
+**For Small Groups:** Discuss 2-3 chapters per session, focusing on what each passage reveals about Jesus' identity.
+
+---
+
 ## Recommended Resources
 
 ### Commentaries

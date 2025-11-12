@@ -108,6 +108,44 @@ Matthew presents Jesus as the long-awaited Messiah-King who fulfills Old Testame
 - Embrace Jesus' authority as King over every area of your life—relationships, finances, career, time, and priorities
 - Participate actively in the Great Commission by sharing your faith and discipling others in your sphere of influence
 
+## Study Questions
+
+### Overview & Context (Matthew 1-4)
+1. How does Matthew's genealogy (1:1-17) establish Jesus' credentials as the Messiah? What's significant about including women?
+2. What do the names "Jesus" (Savior) and "Emmanuel" (God with us) reveal about His mission?
+3. How does Jesus' temptation (4:1-11) parallel Israel's wilderness testing? How does He succeed where Israel failed?
+
+### Sermon on the Mount (Matthew 5-7)
+4. Choose one Beatitude (5:3-12). What does it mean practically? How does it challenge cultural values?
+5. Jesus says He didn't come to abolish the Law but to fulfill it (5:17). How does He demonstrate this in 5:21-48?
+6. What's the main message of the Lord's Prayer (6:9-13)? How should it shape your own prayers?
+7. What does "seek first his kingdom" (6:33) mean in your daily decisions about time, money, and priorities?
+
+### Jesus' Ministry & Teaching (Matthew 8-18)
+8. Why does Jesus often command people not to tell others about their healing? (See 8:4; 9:30; 12:16)
+9. What do the parables in chapter 13 teach about the kingdom of heaven? Pick one and explain its meaning.
+10. Peter's confession (16:16) is pivotal. What does Jesus reveal immediately after (16:21-23)? Why this order?
+11. What does it mean to become "like little children" to enter the kingdom (18:3)?
+
+### Conflict & Authority (Matthew 19-23)
+12. How does Jesus' teaching on marriage and divorce (19:3-12) reflect God's original design?
+13. What's Jesus' main criticism of the Pharisees in chapter 23? How can we avoid similar hypocrisy?
+
+### The End & The Cross (Matthew 24-28)
+14. What signs does Jesus give about the end times (chapter 24)? How should these affect how we live now?
+15. In the parable of the sheep and goats (25:31-46), how are people judged? What does this teach about genuine faith?
+16. Why did Jesus have to die? What did His death accomplish?
+17. What's the significance of the Great Commission (28:18-20)? What's your role in fulfilling it?
+
+### Reflection & Application
+18. How has this study changed your understanding of who Jesus is?
+19. Which of Jesus' teachings challenges you most? What will you do about it this week?
+20. If you had to summarize Matthew's message in one sentence, what would it be?
+
+**For Small Groups:** Discuss one chapter per week, using these questions as starting points. Share personal applications and pray for each other.
+
+---
+
 ## Recommended Resources
 
 ### Commentaries

@@ -14,8 +14,10 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Recommended Commentaries** - Curated resources from beginner to academic level
 
 ### Additional Study Resources:
+- **Site Map & Navigation Guide** - Complete guide to finding any resource in this collection
 - **Quick Start Guide** - Perfect for beginners: where to start, first week plan, building daily habits
 - **The Gospel Explained** - The most important message: salvation through Jesus Christ
+- **Glossary of Biblical Terms** - Definitions of theological, biblical, and historical terms (A-Z)
 - **Quick Reference Tables** - All books summarized in scannable tables
 - **Thematic Index** - 80+ topics showing where themes appear throughout Scripture
 - **Character Index** - 39 major biblical figures with lessons from their lives
@@ -34,6 +36,8 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Bible Study Methods** - Learn how to study Scripture effectively for yourself
 - **Bible Translation Guide** - Choosing the right Bible translation for your needs
 - **How We Got the Bible** - Manuscript evidence, canon formation, and why we can trust Scripture
+- **Spiritual Disciplines** - Prayer, fasting, worship, solitude, service, and more
+- **Difficult Passages Explained** - Honest answers to the Bible's toughest questions
 - **Bible Reading Plans** - Multiple plans to help you read through Scripture
 - **Biblical Timeline** - Chronological overview of Bible history and book dates
 - **Maps & Geography** - Biblical locations, distances, and map resources
@@ -155,11 +159,15 @@ Enhance your study with these comprehensive resources:
 - **[Biblical Timeline](timeline.md)** - Chronological overview showing when books were written and historical periods
 
 ### Study Tools
+- **[Site Map & Navigation Guide](resources/site-map.md)** - Complete guide to finding anything in this collection, organized by topic and need
 - **[Quick Start Guide](resources/quick-start.md)** - New to the Bible? Start here! Where to begin, first week plan, and building daily habits
 - **[The Gospel Explained](resources/gospel-explained.md)** - The most important message in Scripture: God's plan of salvation through Jesus Christ
+- **[Glossary of Biblical Terms](resources/glossary.md)** - A-Z definitions of theological, biblical, historical, and Hebrew/Greek terms
 - **[Gospel Harmony](resources/gospel-harmony.md)** - Why four Gospels? Understanding Matthew, Mark, Luke, and John and how they fit together
 - **[Bible Translation Guide](resources/translation-guide.md)** - Choosing the right Bible translation (ESV, NIV, NASB, NLT, etc.) for your needs
 - **[How We Got the Bible](resources/bible-origins.md)** - Canon formation, manuscript evidence, and why we can trust Scripture
+- **[Spiritual Disciplines](resources/spiritual-disciplines.md)** - Comprehensive guide to prayer, fasting, worship, solitude, service, and 12 spiritual practices
+- **[Difficult Passages Explained](resources/difficult-passages.md)** - Honest, biblical answers to the Bible's toughest questions and troubling texts
 - **[Bible Study Methods](resources/bible-study-methods.md)** - Learn effective Bible study techniques including inductive study, genre-specific approaches, and practical tools
 - **[Bible Verses for Life Situations](resources/verses-for-life.md)** - Find relevant Scripture for comfort, guidance, strength, peace, forgiveness, and more
 - **[Key Bible Doctrines](resources/key-doctrines.md)** - Essential Christian beliefs (God, Trinity, Christ, salvation, church, etc.) with biblical support
