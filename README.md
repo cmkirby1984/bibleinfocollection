@@ -14,19 +14,26 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Recommended Commentaries** - Curated resources from beginner to academic level
 
 ### Additional Study Resources:
+- **Quick Start Guide** - Perfect for beginners: where to start, first week plan, building daily habits
+- **The Gospel Explained** - The most important message: salvation through Jesus Christ
 - **Quick Reference Tables** - All books summarized in scannable tables
 - **Thematic Index** - 80+ topics showing where themes appear throughout Scripture
 - **Character Index** - 39 major biblical figures with lessons from their lives
 - **Women of the Bible** - 25+ women in Scripture with lessons from their lives
+- **Prayers of the Bible** - Learn how to pray from Scripture's greatest prayer warriors
 - **Messianic Prophecies** - Old Testament prophecies fulfilled in Jesus Christ
 - **Parables of Jesus** - All parables organized by theme with lessons and applications
 - **Miracles Index** - Every miracle in the Bible categorized and explained
+- **Types & Shadows of Christ** - How Old Testament persons, events, and objects point to Jesus
 - **Names of God** - Discover God's character through His biblical names
 - **Biblical Covenants** - Understand God's covenants from Eden to the New Covenant
+- **Gospel Harmony** - Why four Gospels? Understanding Matthew, Mark, Luke, and John
 - **Old Testament Feasts** - How Jewish festivals foreshadow Christ
 - **Key Bible Doctrines** - Essential Christian beliefs with biblical support
 - **Bible Verses for Life Situations** - Find relevant Scripture for your specific needs
 - **Bible Study Methods** - Learn how to study Scripture effectively for yourself
+- **Bible Translation Guide** - Choosing the right Bible translation for your needs
+- **How We Got the Bible** - Manuscript evidence, canon formation, and why we can trust Scripture
 - **Bible Reading Plans** - Multiple plans to help you read through Scripture
 - **Biblical Timeline** - Chronological overview of Bible history and book dates
 - **Maps & Geography** - Biblical locations, distances, and map resources
@@ -138,7 +145,9 @@ Enhance your study with these comprehensive resources:
 - **[Thematic Index](indexes/thematic-index.md)** - Find all verses and books on topics like faith, grace, justice, prayer, and 80+ more themes
 - **[Character Index](indexes/character-index.md)** - Study 39 major biblical figures with their key traits, events, and lessons
 - **[Women of the Bible](indexes/women-of-the-bible.md)** - 25+ women in Scripture with lessons from their lives, both positive and negative examples
+- **[Prayers of the Bible](indexes/prayers.md)** - All major prayers in Scripture with lessons on how to pray from biblical examples
 - **[Messianic Prophecies](indexes/messianic-prophecies.md)** - Old Testament prophecies about the Messiah and their fulfillment in Jesus Christ
+- **[Types & Shadows of Christ](indexes/types-and-shadows.md)** - How Old Testament persons, events, and institutions foreshadow Jesus Christ
 - **[Parables of Jesus](indexes/parables.md)** - All ~40 parables organized by theme with interpretation and application
 - **[Miracles Index](indexes/miracles.md)** - Every miracle in Scripture categorized by type (healing, nature, exorcism, resurrection)
 - **[Names of God](indexes/names-of-god.md)** - Discover God's character through His Hebrew names and titles
@@ -146,6 +155,11 @@ Enhance your study with these comprehensive resources:
 - **[Biblical Timeline](timeline.md)** - Chronological overview showing when books were written and historical periods
 
 ### Study Tools
+- **[Quick Start Guide](resources/quick-start.md)** - New to the Bible? Start here! Where to begin, first week plan, and building daily habits
+- **[The Gospel Explained](resources/gospel-explained.md)** - The most important message in Scripture: God's plan of salvation through Jesus Christ
+- **[Gospel Harmony](resources/gospel-harmony.md)** - Why four Gospels? Understanding Matthew, Mark, Luke, and John and how they fit together
+- **[Bible Translation Guide](resources/translation-guide.md)** - Choosing the right Bible translation (ESV, NIV, NASB, NLT, etc.) for your needs
+- **[How We Got the Bible](resources/bible-origins.md)** - Canon formation, manuscript evidence, and why we can trust Scripture
 - **[Bible Study Methods](resources/bible-study-methods.md)** - Learn effective Bible study techniques including inductive study, genre-specific approaches, and practical tools
 - **[Bible Verses for Life Situations](resources/verses-for-life.md)** - Find relevant Scripture for comfort, guidance, strength, peace, forgiveness, and more
 - **[Key Bible Doctrines](resources/key-doctrines.md)** - Essential Christian beliefs (God, Trinity, Christ, salvation, church, etc.) with biblical support
