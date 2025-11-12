@@ -36,6 +36,11 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Key Bible Doctrines** - Essential Christian beliefs with biblical support
 - **Bible Verses for Life Situations** - Find relevant Scripture for your specific needs
 - **Biblical Counseling Guide** - Biblical wisdom for life's hardest struggles (anxiety, depression, addiction, marriage, parenting, and more)
+- **How to Share Your Faith** - Practical evangelism guide with gospel presentations and conversation starters
+- **Answering Common Objections** - Simple apologetics for 25+ common questions about Christianity
+- **Evidence for the Resurrection** - Historical proof that Jesus rose from the dead
+- **New Believer's Guide** - First 90 days after salvation with practical next steps
+- **Personal Testimony Guide** - How to craft and share your faith story effectively
 - **Bible Study Methods** - Learn how to study Scripture effectively for yourself
 - **Scripture Memory System** - 52-week memory verse plan with techniques and topical verses
 - **Bible Translation Guide** - Choosing the right Bible translation for your needs
@@ -176,6 +181,11 @@ Enhance your study with these comprehensive resources:
 - **[Scripture Memory System](resources/memory-verse-system.md)** - 52-week memory verse plan with proven techniques, topical verses, and practical tips for memorizing God's Word
 - **[Difficult Passages Explained](resources/difficult-passages.md)** - Honest, biblical answers to the Bible's toughest questions and troubling texts
 - **[Biblical Counseling Guide](resources/biblical-counseling.md)** - Biblical wisdom for life's hardest struggles including anxiety, depression, anger, grief, marriage, parenting, addiction, and more
+- **[How to Share Your Faith](resources/how-to-share-your-faith.md)** - Complete evangelism guide with methods for sharing the gospel, overcoming fears, starting conversations, and following up with seekers
+- **[Answering Common Objections](resources/answering-objections.md)** - Clear, accessible responses to 25+ common objections about the Bible, God, Jesus, salvation, science, and morality
+- **[Evidence for the Resurrection](resources/evidence-resurrection.md)** - Historical case for Jesus' resurrection using the minimal facts approach, examining alternative theories, and showing why the resurrection is the best explanation
+- **[New Believer's Guide](resources/new-believer-guide.md)** - Comprehensive 90-day guide for new Christians covering salvation basics, first steps, building spiritual habits, and essential Christian practices
+- **[Personal Testimony Guide](resources/personal-testimony-guide.md)** - How to craft, practice, and share your testimony effectively in any setting with examples, worksheets, and delivery tips
 - **[Bible Study Methods](resources/bible-study-methods.md)** - Learn effective Bible study techniques including inductive study, genre-specific approaches, and practical tools
 - **[Bible Verses for Life Situations](resources/verses-for-life.md)** - Find relevant Scripture for comfort, guidance, strength, peace, forgiveness, and more
 - **[Key Bible Doctrines](resources/key-doctrines.md)** - Essential Christian beliefs (God, Trinity, Christ, salvation, church, etc.) with biblical support
