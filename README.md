@@ -17,6 +17,12 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Quick Reference Tables** - All books summarized in scannable tables
 - **Thematic Index** - 80+ topics showing where themes appear throughout Scripture
 - **Character Index** - 39 major biblical figures with lessons from their lives
+- **Messianic Prophecies** - Old Testament prophecies fulfilled in Jesus Christ
+- **Parables of Jesus** - All parables organized by theme with lessons and applications
+- **Miracles Index** - Every miracle in the Bible categorized and explained
+- **Names of God** - Discover God's character through His biblical names
+- **Biblical Covenants** - Understand God's covenants from Eden to the New Covenant
+- **Bible Study Methods** - Learn how to study Scripture effectively for yourself
 - **Biblical Timeline** - Chronological overview of Bible history and book dates
 - **Maps & Geography** - Biblical locations, distances, and map resources
 - **Printing Guide** - Instructions for creating PDFs and print versions
@@ -126,9 +132,15 @@ Perfect for printing, teaching prep, or quick lookup!
 Enhance your study with these comprehensive resources:
 - **[Thematic Index](indexes/thematic-index.md)** - Find all verses and books on topics like faith, grace, justice, prayer, and 80+ more themes
 - **[Character Index](indexes/character-index.md)** - Study 39 major biblical figures with their key traits, events, and lessons
+- **[Messianic Prophecies](indexes/messianic-prophecies.md)** - Old Testament prophecies about the Messiah and their fulfillment in Jesus Christ
+- **[Parables of Jesus](indexes/parables.md)** - All ~40 parables organized by theme with interpretation and application
+- **[Miracles Index](indexes/miracles.md)** - Every miracle in Scripture categorized by type (healing, nature, exorcism, resurrection)
+- **[Names of God](indexes/names-of-god.md)** - Discover God's character through His Hebrew names and titles
+- **[Biblical Covenants](indexes/covenants.md)** - Understand God's covenants from Creation through the New Covenant
 - **[Biblical Timeline](timeline.md)** - Chronological overview showing when books were written and historical periods
 
 ### Study Tools
+- **[Bible Study Methods](resources/bible-study-methods.md)** - Learn effective Bible study techniques including inductive study, genre-specific approaches, and practical tools
 - **[Maps & Geography](resources/maps.md)** - Biblical geography, key locations, distances, and map resources
 - **[Printing Guide](resources/printing-guide.md)** - Instructions for creating print-friendly versions and PDFs
 
