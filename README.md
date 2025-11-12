@@ -18,6 +18,7 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Quick Start Guide** - Perfect for beginners: where to start, first week plan, building daily habits
 - **The Gospel Explained** - The most important message: salvation through Jesus Christ
 - **Glossary of Biblical Terms** - Definitions of theological, biblical, and historical terms (A-Z)
+- **Greek & Hebrew Word Study Guide** - Study original languages without learning Greek or Hebrew
 - **Quick Reference Tables** - All books summarized in scannable tables
 - **Thematic Index** - 80+ topics showing where themes appear throughout Scripture
 - **Character Index** - 39 major biblical figures with lessons from their lives
@@ -31,9 +32,12 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Biblical Covenants** - Understand God's covenants from Eden to the New Covenant
 - **Gospel Harmony** - Why four Gospels? Understanding Matthew, Mark, Luke, and John
 - **Old Testament Feasts** - How Jewish festivals foreshadow Christ
+- **Intertestamental Period** - Understanding the 400 years between Malachi and Matthew
 - **Key Bible Doctrines** - Essential Christian beliefs with biblical support
 - **Bible Verses for Life Situations** - Find relevant Scripture for your specific needs
+- **Biblical Counseling Guide** - Biblical wisdom for life's hardest struggles (anxiety, depression, addiction, marriage, parenting, and more)
 - **Bible Study Methods** - Learn how to study Scripture effectively for yourself
+- **Scripture Memory System** - 52-week memory verse plan with techniques and topical verses
 - **Bible Translation Guide** - Choosing the right Bible translation for your needs
 - **How We Got the Bible** - Manuscript evidence, canon formation, and why we can trust Scripture
 - **Spiritual Disciplines** - Prayer, fasting, worship, solitude, service, and more
@@ -163,11 +167,15 @@ Enhance your study with these comprehensive resources:
 - **[Quick Start Guide](resources/quick-start.md)** - New to the Bible? Start here! Where to begin, first week plan, and building daily habits
 - **[The Gospel Explained](resources/gospel-explained.md)** - The most important message in Scripture: God's plan of salvation through Jesus Christ
 - **[Glossary of Biblical Terms](resources/glossary.md)** - A-Z definitions of theological, biblical, historical, and Hebrew/Greek terms
+- **[Greek & Hebrew Word Study Guide](resources/word-study-guide.md)** - How to study the Bible's original languages without learning Greek or Hebrew (includes essential words, tools, methods, and examples)
 - **[Gospel Harmony](resources/gospel-harmony.md)** - Why four Gospels? Understanding Matthew, Mark, Luke, and John and how they fit together
 - **[Bible Translation Guide](resources/translation-guide.md)** - Choosing the right Bible translation (ESV, NIV, NASB, NLT, etc.) for your needs
 - **[How We Got the Bible](resources/bible-origins.md)** - Canon formation, manuscript evidence, and why we can trust Scripture
+- **[Intertestamental Period](resources/intertestamental-period.md)** - Understanding the crucial 400 years between Malachi and Matthew (Persian, Greek, Maccabean, and Roman periods)
 - **[Spiritual Disciplines](resources/spiritual-disciplines.md)** - Comprehensive guide to prayer, fasting, worship, solitude, service, and 12 spiritual practices
+- **[Scripture Memory System](resources/memory-verse-system.md)** - 52-week memory verse plan with proven techniques, topical verses, and practical tips for memorizing God's Word
 - **[Difficult Passages Explained](resources/difficult-passages.md)** - Honest, biblical answers to the Bible's toughest questions and troubling texts
+- **[Biblical Counseling Guide](resources/biblical-counseling.md)** - Biblical wisdom for life's hardest struggles including anxiety, depression, anger, grief, marriage, parenting, addiction, and more
 - **[Bible Study Methods](resources/bible-study-methods.md)** - Learn effective Bible study techniques including inductive study, genre-specific approaches, and practical tools
 - **[Bible Verses for Life Situations](resources/verses-for-life.md)** - Find relevant Scripture for comfort, guidance, strength, peace, forgiveness, and more
 - **[Key Bible Doctrines](resources/key-doctrines.md)** - Essential Christian beliefs (God, Trinity, Christ, salvation, church, etc.) with biblical support
