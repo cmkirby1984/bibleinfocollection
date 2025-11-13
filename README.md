@@ -11,10 +11,15 @@ A comprehensive study guide covering all 66 books of the Bible with book overvie
 - **Key Verses** - 2-3 most important verses with full text and significance
 - **Key Themes & Messages** - 3-5 major theological themes and the central message
 - **Practical Application** - Concrete applications for daily living and spiritual growth
+- **Study Questions** - Comprehensive questions for personal study and group discussion
 - **Recommended Commentaries** - Curated resources from beginner to academic level
 
 ### Additional Study Resources:
 - **Quick Reference Tables** - All books summarized in scannable tables
+- **Cross-Reference Guide** - Topical guide linking related passages across all of Scripture
+- **Biblical Terms Glossary** - Definitions of key theological terms and Hebrew/Greek words
+- **Parables Index** - Complete list of Jesus' parables with interpretations and applications
+- **Miracles Index** - Catalog of all biblical miracles organized by type
 - **Thematic Index** - 80+ topics showing where themes appear throughout Scripture
 - **Character Index** - 39 major biblical figures with lessons from their lives
 - **Biblical Timeline** - Chronological overview of Bible history and book dates
@@ -124,6 +129,10 @@ Perfect for printing, teaching prep, or quick lookup!
 
 ### Indexes & Guides
 Enhance your study with these comprehensive resources:
+- **[Cross-Reference Guide](indexes/cross-references.md)** - Topical cross-references linking related passages across all of Scripture on salvation, God's character, prayer, and many more themes
+- **[Biblical Terms Glossary](indexes/glossary.md)** - Comprehensive definitions of theological terms, important Hebrew and Greek words, and biblical concepts
+- **[Parables Index](indexes/parables-index.md)** - Complete catalog of Jesus' parables with locations, meanings, and practical applications
+- **[Miracles Index](indexes/miracles-index.md)** - All miracles in Scripture organized by type—creation, healing, nature, exorcisms, and resurrection
 - **[Thematic Index](indexes/thematic-index.md)** - Find all verses and books on topics like faith, grace, justice, prayer, and 80+ more themes
 - **[Character Index](indexes/character-index.md)** - Study 39 major biblical figures with their key traits, events, and lessons
 - **[Biblical Timeline](timeline.md)** - Chronological overview showing when books were written and historical periods
